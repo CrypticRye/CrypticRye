@@ -10,11 +10,15 @@ Data Analysis (cleaning, processing, interpreting data)
 Python for data analytics
 Data visualization tools
 Basic machine learning concepts
+
+
 🛠️ Skills & Tools
 Python
 MYSQL
 Excel / Spreadsheets
 Data Cleaning & Visualization
+
+
 🎯 Goals
 Build real-world data analysis projects
 Strengthen problem-solving and analytical thinking
