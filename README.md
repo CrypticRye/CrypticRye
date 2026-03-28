@@ -23,5 +23,3 @@ Data Cleaning & Visualization
 Build real-world data analysis projects
 Strengthen problem-solving and analytical thinking
 Share my work and progress here on GitHub
-
-![alt text](https://www.tumblr.com/sazandorable/737048291385180160/akai-shuuichi)
